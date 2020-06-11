@@ -20,25 +20,14 @@ import { Button,Card } from 'react-bootstrap';
   
             </Card>
             </div>
-            
-            
-
-        )
-        
-        })}
+          )
+     }
+)
+}
             
        </div>
-
-        </div>
- 
- 
- 
- 
- 
- 
- 
- 
- )
+    </div>
+)
 }
 export default Movies;
 
